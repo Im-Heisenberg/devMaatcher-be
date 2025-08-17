@@ -1,0 +1,20 @@
+/auth/signup
+/auth/login
+/auth/logout
+
+show interest -->
+/connection?to=dfs123wer&state=pass
+/connection?to=dfs123wer&state=rejected
+
+accept or reject -->
+
+/connection/review?fromId=sdfsd3423&state=accepted
+/connection/review?fromId=sdfsd3423&state=rejected
+
+
+show all connection --> 
+/connection
+
+
+feed -->
+/user/feed
